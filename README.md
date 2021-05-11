@@ -1,4 +1,4 @@
-# Yahtzee!
+# Hungarian Algorithm Solution to Yahtzee! Problem
 
 
 1) ----------------------------------------------------------------------------
